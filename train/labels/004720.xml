@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Helmet_Head</folder>
+	<filename>004720.jpg</filename>
+	<path>PICTURE_DATA/Train</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+<width>420</width>
+<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>305</ymin>
+			<xmax>216</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>199</ymin>
+			<xmax>206</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

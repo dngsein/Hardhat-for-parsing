@@ -1,0 +1,25 @@
+<annotation>
+	<folder>Helmet_Head</folder>
+	<filename>004101.jpg</filename>
+	<path>PICTURE_DATA/Train</path>
+	<source>
+<database>NEU-MMLab</database>	</source>
+	<size>
+<width>352</width>
+<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>1</ymin>
+			<xmax>179</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

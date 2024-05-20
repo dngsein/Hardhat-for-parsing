@@ -1,0 +1,49 @@
+<annotation>
+	<folder>Helmet_Head</folder>
+	<filename>006759.jpg</filename>
+	<path>PICTURE_DATA/Test</path>
+	<source>
+<database>NEU-MMLab</database>	</source>
+	<size>
+<width>240</width>
+<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>38</ymin>
+			<xmax>120</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>20</ymin>
+			<xmax>168</xmax>
+			<ymax>44</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>121</ymin>
+			<xmax>67</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

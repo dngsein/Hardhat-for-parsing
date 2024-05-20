@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Helmet_Head</folder>
+	<filename>003694.jpg</filename>
+	<path>PICTURE_DATA/Train</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>499</width>
+		<height>356</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>109</ymin>
+			<xmax>290</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
