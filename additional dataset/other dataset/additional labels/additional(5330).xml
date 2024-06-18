@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>a-row-of-people-wearing-hats-on-centre-court-wimbledon-CR5XRG_jpg.rf.db375cc537474798bf673338ed4e74eb.jpg</filename>
+	<path>a-row-of-people-wearing-hats-on-centre-court-wimbledon-CR5XRG_jpg.rf.db375cc537474798bf673338ed4e74eb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

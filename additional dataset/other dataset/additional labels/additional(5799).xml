@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>caphat-1037-_jpg.rf.5f24af59b93f2c5c7b29c3ce66c8ac7a.jpg</filename>
+	<path>caphat-1037-_jpg.rf.5f24af59b93f2c5c7b29c3ce66c8ac7a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

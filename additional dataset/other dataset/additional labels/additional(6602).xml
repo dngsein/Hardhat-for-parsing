@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>How_to_Wear_a_Hat_with_Long_Hair_1200x_jpg.rf.f2e105aed93f2e1f3b8635fd8e8dcc66.jpg</filename>
+	<path>How_to_Wear_a_Hat_with_Long_Hair_1200x_jpg.rf.f2e105aed93f2e1f3b8635fd8e8dcc66.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

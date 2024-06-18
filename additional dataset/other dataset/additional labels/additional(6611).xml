@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>How-to-wear-a-fedora-hat_632019dd-a70e-4340-b05f-20450f0be5b2_1200x630_jpg.rf.7d77347961dfec6580972189f5c697c1.jpg</filename>
+	<path>How-to-wear-a-fedora-hat_632019dd-a70e-4340-b05f-20450f0be5b2_1200x630_jpg.rf.7d77347961dfec6580972189f5c697c1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_hard_hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>641</xmax>
+			<ymin>1</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
