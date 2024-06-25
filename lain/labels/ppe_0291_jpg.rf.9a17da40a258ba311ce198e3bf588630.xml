@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ppe_0291_jpg.rf.9a17da40a258ba311ce198e3bf588630.jpg</filename>
+	<path>ppe_0291_jpg.rf.9a17da40a258ba311ce198e3bf588630.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>402</xmin>
+			<xmax>425</xmax>
+			<ymin>296</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>
